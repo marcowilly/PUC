@@ -1,0 +1,32 @@
+2) Assinale com um X os nomes de variáveis válidos.
+
+(X) abc
+( ) 3abc
+(X) a
+( ) 123a
+( ) –a
+(X) acd1
+( ) ABC DE
+( ) etc.
+(X) b316
+(X) leia
+(X) inteiro
+(X) imprima
+(X) valor
+(X) _b248
+( ) nota*do*aluno
+(X) a1b2c3
+( ) 3 x 4
+(X) leia
+( ) -_ad
+( ) A&a
+( ) guarda-chuva
+(X) A123
+(X) Aa
+(X) guarda_chuva
+( ) km/h
+( ) 3xyz
+( ) nome empresa
+(X) sala_215
+( ) “nota”
+( ) ah!

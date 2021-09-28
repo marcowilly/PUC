@@ -1,0 +1,16 @@
+1) Classifique os conteúdo das variáveis abaixo de acordo com seu tipo,
+assinalando com I os dados inteiros, R os dados Reais e com C os literais.
+
+(I) 0
+(C) "abc"
+(C) "João"
+(R) 5.7
+(I) 1012
+(I) -49
+(I) +342
+(I) 569
+(C) "Lucas"
+(C) "VERDADEIRO"
+(R) 0.00001
+(I) -545
+(C) "444"
